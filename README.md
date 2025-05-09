@@ -7,3 +7,4 @@ projects:
 1. [Project 1](/projects/project_1.md)
 
 
+new projects coming soon!
